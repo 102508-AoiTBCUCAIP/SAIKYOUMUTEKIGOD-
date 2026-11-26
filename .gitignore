@@ -1,1 +1,12 @@
 takkyu/.vsconfig
+takkyu/Assembly-CSharp.csproj
+takkyu/Assembly-CSharp-Editor.csproj
+takkyu/Mediapipe.Runtime.csproj
+takkyu/Mediapipe.Runtime.Tests.csproj
+takkyu/takkyu.sln
+takkyu/.vs/
+takkyu/Library/
+takkyu/Logs/
+takkyu/obj/
+takkyu/UserSettings/
+takkyu/Temp/
